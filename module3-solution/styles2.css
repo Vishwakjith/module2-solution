@@ -64,6 +64,18 @@
 			display: none;
 		}
 	}
+
+	@media (max-width: 768px){
+		#chicken{
+			width: 96.5%;
+		}
+		#beef{
+			width: 96.5%;
+		}
+		#sushi{
+			width: 96.5%;
+		}
+	}
     
 	a.nav-link{
 		text-align: center;
